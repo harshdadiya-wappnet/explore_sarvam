@@ -14,7 +14,7 @@ This repository contains small, practical examples for building with Sarvam AI:
 
 1. Clone the repository:
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/harshdadiya-wappnet/explore_sarvam
 cd explore_sarvam
 ```
 
